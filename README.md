@@ -1,6 +1,6 @@
-## Hi there 👋 
-## I'm Lahari!
+### Hello👋 , I'm Lahari !
 
+-  student
 - ⚡ IITian :metal:
 - 🌱 I’m currently learning JS frameworks
 - 😄 My hobbies include singing,reading, dancing and 
