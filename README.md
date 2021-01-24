@@ -1,4 +1,4 @@
-### Hello👋 , I'm Lahari !
+# Hello👋 , I'm Lahari !
 
 -  student
 - ⚡ IITian :metal:
