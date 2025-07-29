@@ -1,8 +1,7 @@
-# Hello👋 , I'm Lahari !
+# Hii👋 , I'm Lahari !
 
--  student
-- ⚡ IITian :metal:
-- 🌱 Budding Developer and Business skills enthusiast
-- 😄 My hobbies include reading books and articles, listening to music and singing
-- 📫 Reach me on [Linkedin](http://www.linkedin.com/in/lahari-vippagunta-7a257b192)  [Instagram](http://www.instagram.com/lahari_v_ )  [Gmail](lahari.vippagunta.met19@itbhu.ac.in)
+-  Planning...Creating...Building...
+- ⚡ Gen AI | Data Scientist
+- 😄 Love reading books and articles, listening to music
+- 📫 Reach me on [Linkedin](http://www.linkedin.com/in/lahari-vippagunta-7a257b192) [Gmail](la0618v@gmail.com)
  
