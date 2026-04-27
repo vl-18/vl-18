@@ -1,7 +1,26 @@
-# Hii👋 , I'm Lahari !
+# Hi, I'm Lahari 👋
 
--  Planning...Creating...Building...
-- ⚡ Gen AI | Data Scientist
-- 😄 Love reading books and articles, listening to music
-- 📫 Reach me on [Linkedin](http://www.linkedin.com/in/lahari-vippagunta-7a257b192) [Gmail](la0618v@gmail.com)
- 
+Data Scientist | GenAI Engineer | IIT BHU
+
+---
+
+## About Me
+- 2+ years of experience in Data Science & AI  
+- Working on **Generative AI, LLMs, and intelligent agent systems**  
+- Interested in building **scalable AI products with real-world impact**  
+- Exploring opportunities in **AI + Product at a global level**
+
+---
+
+## What I Work On
+- 🔹 LLM applications (RAG, agents, prompt engineering)  
+- 🔹 Machine Learning & Deep Learning models  
+- 🔹 End-to-end AI systems (from data → deployment)  
+- 🔹 Applied AI projects with business impact  
+
+
+---
+
+## Let's Connect
+- 💼 LinkedIn: *[LinkedIn-Lahari](http://www.linkedin.com/in/lahari-vippagunta-7a257b192)*  
+- 📧 Email: *[Mail me](vippaguntalahari@gmail.com)*  
