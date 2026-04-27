@@ -17,7 +17,7 @@ Data Scientist | GenAI Engineer | IIT BHU
 - 🔹 Machine Learning & Deep Learning models  
 - 🔹 End-to-end AI systems (from data → deployment)  
 - 🔹 Applied AI projects with business impact  
-
+Portfolio: [My Work](https://vl-18.github.io/lahari-portfolio/)
 
 ---
 
